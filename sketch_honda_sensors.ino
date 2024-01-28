@@ -12,8 +12,8 @@
 
   For support or questions, feel free to contact me:
 
-  Author: Richard Alan Greer, Jr.
-  Email: rgreerjr@gmail.com
+  Author: JackJohns0n
+  Email: jackjohnsonmods@gmail.com
   GitHub: https://github.com/jackjohns0n
 */
 
